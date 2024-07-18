@@ -1,0 +1,17 @@
+{
+  "name": "crud_api",
+  "version": "1.0.0",
+  "description": "This project is a simple CRUD (Create, Read, Update, Delete) API built using Node.js and MongoDB for data storage. It provides endpoints to perform basic CRUD operations on a collection of data. Postman is used for testing and interacting with the API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jinal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.3.1",
+    "nodemon": "^3.0.1"
+  }
+}
